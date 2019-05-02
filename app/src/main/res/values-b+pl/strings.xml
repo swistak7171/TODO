@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ustawienia</string>
+
+    <string name="new_task">Nowe zadanie</string>
+    <string name="add">Dodaj</string>
+    <string name="empty_task">Nie można stworzyć pustego zadania</string>
+    <string name="modify">Modyfikuj</string>
+    <string name="modify_task">Modyfikuj zadanie</string>
+    <string name="created">Stworzono</string>
+    <string name="task_description">Opis zadania</string>
+    <string name="completed_tasks">Ukończone zadania</string>
+    <string name="no_completed_tasks">Brak ukończonych zadań</string>
+    <string name="deleted_completed_tasks">Usunięto ukończone zadania</string>
+    <string name="no_tasks_to_delete">Brak zadań do usunięcia</string>
+</resources>
